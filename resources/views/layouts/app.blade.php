@@ -73,7 +73,7 @@
                                                      document.getElementById('logout-form').submit();">
                                     {{ __('Logout') }}
                                 </a>
-
+                                <a class="dropdown-item" href="{{ route('admin.products.index') }}">Prodotti <i class="fa-solid fa-note-sticky"></i></a>
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
                                     @csrf
                                 </form>

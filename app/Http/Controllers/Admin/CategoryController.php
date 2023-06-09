@@ -1,12 +1,14 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\Admin;
 
-use App\Models\Texture;
-use App\Http\Requests\StoreTextureRequest;
-use App\Http\Requests\UpdateTextureRequest;
+use App\Http\Controllers\Controller;
 
-class TextureController extends Controller
+use App\Models\Category;
+use App\Http\Requests\StoreCategoryRequest;
+use App\Http\Requests\UpdateCategoryRequest;
+
+class CategoryController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -31,10 +33,10 @@ class TextureController extends Controller
     /**
      * Store a newly created resource in storage.
      *
-     * @param  \App\Http\Requests\StoreTextureRequest  $request
+     * @param  \App\Http\Requests\StoreCategoryRequest  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(StoreTextureRequest $request)
+    public function store(StoreCategoryRequest $request)
     {
         //
     }
@@ -42,10 +44,10 @@ class TextureController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\Texture  $texture
+     * @param  \App\Models\Category  $category
      * @return \Illuminate\Http\Response
      */
-    public function show(Texture $texture)
+    public function show(Category $category)
     {
         //
     }
@@ -53,10 +55,10 @@ class TextureController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\Texture  $texture
+     * @param  \App\Models\Category  $category
      * @return \Illuminate\Http\Response
      */
-    public function edit(Texture $texture)
+    public function edit(Category $category)
     {
         //
     }
@@ -64,11 +66,11 @@ class TextureController extends Controller
     /**
      * Update the specified resource in storage.
      *
-     * @param  \App\Http\Requests\UpdateTextureRequest  $request
-     * @param  \App\Models\Texture  $texture
+     * @param  \App\Http\Requests\UpdateCategoryRequest  $request
+     * @param  \App\Models\Category  $category
      * @return \Illuminate\Http\Response
      */
-    public function update(UpdateTextureRequest $request, Texture $texture)
+    public function update(UpdateCategoryRequest $request, Category $category)
     {
         //
     }
@@ -76,10 +78,10 @@ class TextureController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\Texture  $texture
+     * @param  \App\Models\Category  $category
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Texture $texture)
+    public function destroy(Category $category)
     {
         //
     }
