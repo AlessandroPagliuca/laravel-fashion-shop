@@ -333,7 +333,7 @@ return [
     'products' => [
 
         [
-            "id" => 1048,
+
             "brand_id" => 14,
             "name" => "Lippie Pencil",
             "price" => "5.0",
@@ -349,7 +349,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/048/original/open-uri20180708-4-13okqci?1531093614"
         ],
         [
-            "id" => 1047,
             "brand_id" => 14,
             "name" => "Blotted Lip",
             "price" => "5.5",
@@ -366,7 +365,6 @@ return [
 
         ],
         [
-            "id" => 1046,
             "brand_id" => 14,
             "name" => "Lippie Stix",
             "price" => "5.5",
@@ -382,7 +380,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/046/original/open-uri20180708-4-1f333k1?1531086651"
         ],
         [
-            "id" => 1045,
             "brand_id" => 14,
             "name" => "No Filter Foundation",
             "price" => "12.0",
@@ -398,7 +395,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/045/original/open-uri20180708-4-4bvqii?1531074237"
         ],
         [
-            "id" => 1044,
             "brand_id" => 6,
             "name" => "Lipstick",
             "price" => "26.0",
@@ -415,7 +411,6 @@ return [
 
         ],
         [
-            "id" => 1043,
             "brand_id" => 17,
             "name" => "Serum Foundation",
             "price" => "6.7",
@@ -431,7 +426,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/043/original/open-uri20180706-4-nszgw9?1530919194"
         ],
         [
-            "id" => 1042,
             "brand_id" => 17,
             "name" => "Coverage Foundation",
             "price" => "6.9",
@@ -447,7 +441,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/042/original/open-uri20180706-4-1e74943?1530916234"
         ],
         [
-            "id" => 1041,
             "brand_id" => 57,
             "name" => "Liquid Liner",
             "price" => "0.0",
@@ -463,7 +456,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/041/original/open-uri20180630-4-1huiv9y?1530390387"
         ],
         [
-            "id" => 1040,
             "brand_id" => 57,
             "name" => "Eyeshadow",
             "price" => "0.0",
@@ -479,7 +471,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/040/original/open-uri20180630-4-1afkyee?1530390386"
         ],
         [
-            "id" => 1039,
             "brand_id" => 54,
             "name" => " Realist Invisible Setting Powder",
             "price" => "0.0",
@@ -495,7 +486,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/039/original/open-uri20180630-4-rfmkzd?1530390386"
         ],
         [
-            "id" => 1038,
             "brand_id" => 47,
             "name" => "B Smudged",
             "price" => "0.0",
@@ -511,7 +501,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/038/original/open-uri20180630-4-xhqdne?1530390385"
         ],
         [
-            "id" => 1037,
             "brand_id" => 47,
             "name" => "B Glossy Lip Gloss",
             "price" => "0.0",
@@ -527,7 +516,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/037/original/open-uri20180630-4-1fa1p2f?1530390384"
         ],
         [
-            "id" => 1036,
             "brand_id" => 45,
             "name" => "Multi Purpose Powder - Blush \u0026 Eye",
             "price" => "0.0",
@@ -543,7 +531,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/036/original/open-uri20180630-4-ign3hh?1530390384"
         ],
         [
-            "id" => 1033,
             "brand_id" => 45,
             "name" => "Pressed Powder Foundation",
             "price" => "0.0",
@@ -559,7 +546,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/033/original/open-uri20180630-4-1mibdm?1530390382"
         ],
         [
-            "id" => 1032,
             "brand_id" => 45,
             "name" => "Bronzer - loose",
             "price" => "0.0",
@@ -575,7 +561,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/032/original/open-uri20180630-4-1bl3btv?1530390381"
         ],
         [
-            "id" => 1031,
             "brand_id" => 45,
             "name" => "Bronzer - pressed",
             "price" => "0.0",
@@ -592,7 +577,6 @@ return [
 
         ],
         [
-            "id" => 1030,
             "brand_id" => 41,
             "name" => "Lip Gloss",
             "price" => "0.0",
@@ -608,7 +592,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/030/original/open-uri20180630-4-ucbwbt?1530390380"
         ],
         [
-            "id" => 1029,
             "brand_id" => 37,
             "name" => "Amalia",
             "price" => "0.0",
@@ -624,7 +607,6 @@ return [
             "api_featured_image" => "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/029/original/open-uri20180630-4-1rfkucb?1530390379"
         ],
         [
-            "id" => 1028,
             "brand_id" => 30,
             "name" => "Pressed Foundation",
             "price" => "0.0",
